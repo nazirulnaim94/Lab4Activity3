@@ -1,0 +1,65 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.android\build-cache\c1ada924d0b57973c48168c4b6361fe0ead11102\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.android\build-cache\9a6e9fe88ad0981152db1b2805719b80be8414f5\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.android\build-cache\90efe538605c522572de6551338ed286ab3b9a03\output\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.android\build-cache\ee067cadcf9d2b74ddfa55f27e6d0c9dea0949b8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.android\build-cache\f82d543d153078a774b83e5cde3271c2b838ca58\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:9:9-35
+	android:allowBackup
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:7:9-43
+	android:theme
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.example.naim.lab4activity3.MainActivity
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.example.naim.lab4activity3.FullImageActivity
+ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:18:9-64
+	android:name
+		ADDED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml:18:19-52
+uses-sdk
+INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.android\build-cache\c1ada924d0b57973c48168c4b6361fe0ead11102\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ADMIN\.android\build-cache\9a6e9fe88ad0981152db1b2805719b80be8414f5\output\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ADMIN\.android\build-cache\90efe538605c522572de6551338ed286ab3b9a03\output\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ADMIN\.android\build-cache\ee067cadcf9d2b74ddfa55f27e6d0c9dea0949b8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ADMIN\.android\build-cache\f82d543d153078a774b83e5cde3271c2b838ca58\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ADMIN\.android\build-cache\c1ada924d0b57973c48168c4b6361fe0ead11102\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ADMIN\AndroidStudioProjects\Lab4Activity3\app\src\main\AndroidManifest.xml
